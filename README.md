@@ -15,6 +15,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=guswateers&theme=gotham&background=000&border=30A3DC&dates=FFF)](https://github.com/guswateers)
 
+ ##
+ 
+<div>
+ 
+  ![Snake animation](https://github.com/guswateers/guswateers/blob/main/github-contribution-grid-snake.svg)
+
+</div>
+
 ## ⚡ Tecnologias
 
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=microsoftsqlserver)
