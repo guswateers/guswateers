@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/guswateers/guswateers/main/readme_guswateers_arte.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
 
 ## - 👋 Olá, eu sou o Rapha!
-- 👨‍💻 Atualmente sou Analista de Dados na Callink.
+- 👨‍💻 Sou Analista de Dados.
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas
-- 📘 Pós-Graduando em Ciência de Dados
 -  📺 Gosto de livros e séries.
 
  ## Conecte-se comigo
